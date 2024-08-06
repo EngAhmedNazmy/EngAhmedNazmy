@@ -122,9 +122,9 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
      Apache containers acting as web servers.
      Keepalived containers for high availability.
 
-- **Technologies:** Nginx, Keepalived, Apache, Bash
+- **Technologies:** Docker Containers, Bash
 
-- **Repository:** [Server-Automation](https://github.com/EngAhmedNazmy/HA_LoadBalancer)
+- **Repository:** [HA_LoadBalancer](https://github.com/EngAhmedNazmy/HA_LoadBalancer)
  
 
 ### [Project 2: Automating Server Deployments](https://github.com/yourusername/Server-Automation)
