@@ -114,7 +114,20 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
 ## Showcase
 
 
-### [Project 1: Automating Server Deployments](https://github.com/yourusername/Server-Automation)
+### [Project 1: Apache WebServers with High Availability & LoadBalancing](https://github.com/EngAhmedNazmy/HA_LoadBalancer)
+
+
+- **Description:** This project sets up a high-availability (HA) environment using Docker containers. It includes:
+     Nginx containers acting as load balancers.
+     Apache containers acting as web servers.
+     Keepalived containers for high availability.
+
+- **Technologies:** Nginx, Keepalived, Apache, Bash
+
+- **Repository:** [Server-Automation](https://github.com/EngAhmedNazmy/HA_LoadBalancer)
+ 
+
+### [Project 2: Automating Server Deployments](https://github.com/yourusername/Server-Automation)
 
 
 - **Description:** Developed an Ansible playbook to automate server provisioning and configuration.
@@ -122,9 +135,9 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
 - **Technologies:** Ansible, Bash
 
 - **Repository:** [Server-Automation](https://github.com/yourusername/Server-Automation)
- 
 
-### [Project 2: Secure Docker Containers](https://github.com/yourusername/Secure-Docker)
+  
+### [Project 3: Secure Docker Containers](https://github.com/yourusername/Secure-Docker)
 
 
 - **Description:** Created Docker images with security best practices.
@@ -134,7 +147,7 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
 - **Repository:** [Secure-Docker](https://github.com/yourusername/Secure-Docker)
 
 
-### [Project 3: CI/CD with GitHub Actions](https://github.com/yourusername/CI-CD-with-GitHub-Actions)
+### [Project 4: CI/CD with GitHub Actions](https://github.com/yourusername/CI-CD-with-GitHub-Actions)
 
 
 - **Description:** Implemented CI/CD pipelines using GitHub Actions to streamline the development process.
