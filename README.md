@@ -127,7 +127,17 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
 - **Repository:** [HA_LoadBalancer](https://github.com/EngAhmedNazmy/HA_LoadBalancer)
  
 
-### [Project 2: Automating Server Deployments](https://github.com/yourusername/Server-Automation)
+### [Project 2: Updating Old Drivers](https://github.com/EngAhmedNazmy/elrepo-script)
+
+
+- **Description:** This script for updating old drivers not found in redhat_release.
+
+- **Technologies:** Bash
+
+- **Repository:** [elrepo-script](https://github.com/EngAhmedNazmy/elrepo-script)
+
+  
+### [Project 3: Automating Server Deployments](https://github.com/yourusername/Server-Automation)
 
 
 - **Description:** Developed an Ansible playbook to automate server provisioning and configuration.
@@ -137,14 +147,7 @@ Additionally, I hold an **MBA (Master of Business Administration)**, which has e
 - **Repository:** [Server-Automation](https://github.com/yourusername/Server-Automation)
 
   
-### [Project 3: Secure Docker Containers](https://github.com/yourusername/Secure-Docker)
 
-
-- **Description:** Created Docker images with security best practices.
-
-- **Technologies:** Docker, Security Hardening
-
-- **Repository:** [Secure-Docker](https://github.com/yourusername/Secure-Docker)
 
 
 ### [Project 4: CI/CD with GitHub Actions](https://github.com/yourusername/CI-CD-with-GitHub-Actions)
